@@ -36,7 +36,7 @@ public class BabyZombieMixin {
 
             SoundEvent babyZombie = SoundEvent.of(BABY_ZOMBIE_ID);
             AbstractSoundInstance instance = new AbstractSoundInstance(babyZombie, SoundCategory.HOSTILE, Random.create()) {
-                @Override public float getVolume() { return sound.getVolume(); }
+                @Override public float getVolume() { return 1.0f; }
                 @Override public float getPitch()  { return 1.0f; }
                 @Override public boolean isRepeatable() { return false; }
             };
