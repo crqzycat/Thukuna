@@ -6,7 +6,8 @@
     "AdvancementToastMixin",
     "DoorBlockMixin",
     "WardenSoundMixin",
-    "DarknessMixin"
+    "DarknessMixin",
+    "BabyZombieMixin"
   ],
   "injectors": {
     "defaultRequire": 1

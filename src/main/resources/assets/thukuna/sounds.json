@@ -1,26 +1,14 @@
 {
   "video_audio": {
-    "sounds": [
-      {
-        "name": "thukuna:video_audio",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "thukuna:video_audio", "stream": true}]
   },
   "hello_gojo": {
-    "sounds": [
-      {
-        "name": "thukuna:hello_gojo",
-        "stream": false
-      }
-    ]
+    "sounds": [{"name": "thukuna:hello_gojo", "stream": false}]
   },
   "hollow_purple": {
-    "sounds": [
-      {
-        "name": "thukuna:hollow_purple",
-        "stream": false
-      }
-    ]
+    "sounds": [{"name": "thukuna:hollow_purple", "stream": false}]
+  },
+  "baby_zombie": {
+    "sounds": [{"name": "thukuna:baby_zombie", "stream": false}]
   }
 }
